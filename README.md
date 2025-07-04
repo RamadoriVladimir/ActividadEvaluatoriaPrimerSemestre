@@ -4,4 +4,4 @@ Este proyecto es una aplicación de control de clima para un datacenter, impleme
 
 La aplicación permite la monitorización y ajuste de la temperatura y humedad de un entorno de datacenter. Ofrece dos vías de interacción: un menú de consola para operaciones directas y una interfaz web intuitiva para un control remoto. Todos los cambios significativos en el clima del datacenter son registrados y persistidos, creando un historial de operaciones.
 
-Para usarla es necesario compilar el servidor en c++ que se encarga del servidor HTTP y los verbos REST, ejecutarlo y en mi caso usar el servidor proxy con node para el funcionamiento de las peticiones http efectuadas desde el html.
+Para usarla es necesario compilar el servidor en c++ que se encarga del servidor HTTP y los verbos REST, ejecutarlo y en mi caso fue necesario usar el servidor proxy con node para el funcionamiento de las peticiones http efectuadas desde el html.
